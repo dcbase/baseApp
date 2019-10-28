@@ -30,7 +30,7 @@ export default class Login extends Component {
 
     loginClick = () => {
         let params=this.state
-        $http.$post('http://apms-test.fpi-inc.site/simple-user-center-server/userCenter/login',params).then( res =>{
+        $http.$post('http://localhost:8081/userCenter/login',params).then( res =>{
             Actions.lightbox()
         })
     }
