@@ -3,7 +3,7 @@
 [学习文档 github，如有疑问可提出issues](https://github.com/dcbase/studyDocsify.git)
 
 
-[学习文档浏览](https://github.com/dcbase/studyDocsify/#/)
+[学习文档浏览](https://dcbase.github.io/studyDocsify/#/)
 
 
 #### 项目目录
